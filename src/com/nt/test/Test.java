@@ -12,6 +12,7 @@ public class Test {
 		
 		factory=new ShapeFactory();
 		//shape1=ShapeFactory.getShape("CIRCLE");
+           //modified for the git testing purpose
 		//shape1.drow();
 		
 		shape1=ShapeFactory.getShape("RECTANGLE");
